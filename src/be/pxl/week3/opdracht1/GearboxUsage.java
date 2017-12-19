@@ -13,5 +13,8 @@ public class GearboxUsage {
 		mcLaren.changeGear(3);
 		mcLaren.operateClutch(false);
 		System.out.println(mcLaren.wheelSpeed(6000));
+		
+		
+		
 	}
 }
